@@ -1,4 +1,9 @@
 Artificial-Intelligence
-Artificial Intelligence projects as undergraduate student (2020-2021) ___________________________________________________________________________________________
-The first two are Pac-Man projects (project1 and project2) from Berkeley University.
+-
+The first two projects are Pac-Man projects from Berkeley University. 
+
+Project 1: https://inst.eecs.berkeley.edu/~cs188/sp19/project1.html
+
+Project 2: https://inst.eecs.berkeley.edu/~cs188/sp20/project2/
+
 The third project (project3) is a RLFA problem.
